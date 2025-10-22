@@ -54,11 +54,6 @@ li {
     align-items: flex-start;
 }
 
-.color_gray{
-    color: black;
-    opacity: 30%;
-}
-
 svg{
     display: block;
     width: 20px;
